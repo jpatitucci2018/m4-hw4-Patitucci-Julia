@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+    max-width: 900px;
+    margin: auto
+}
+
+header {
+    margin: 35px 0;
+    font-size: 20px;
+}
+
+section.jumbotron {
+    text-align: center;
+    background-image: url("https://picsum.photos/900/600");
+    padding: 50px 0 100px;
+    font-size: 50px;
+}
+
+a {
+    color: plum;
+}
+
+h2 {
+    color: pink;
+}
+
+footer {
+    margin: 50px 0;
+    text-align: center;
+}
+
+div p {
+    background-color: silver;
+}
